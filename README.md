@@ -1,1 +1,1 @@
-# superchain-bridge-docs
+# Brid.gg docs
