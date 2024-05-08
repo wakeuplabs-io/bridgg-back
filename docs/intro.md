@@ -1,6 +1,6 @@
 ---
   slug: /
-  title: What is Brid.gg
+  title: What is Brid.gg?
   sidebar_position: 1
 ---
 
